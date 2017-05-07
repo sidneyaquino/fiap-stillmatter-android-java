@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "692111207930",
+    "firebase_url": "https://stillmatters-f80ab.firebaseio.com",
+    "project_id": "stillmatters-f80ab",
+    "storage_bucket": "stillmatters-f80ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692111207930:android:54e422ae632fe119",
+        "android_client_info": {
+          "package_name": "com.fiap.stillmatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692111207930-pqp0r5qbm0ulk9u0j2kf7d82ql16h2mq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fiap.stillmatter",
+            "certificate_hash": "42590049831da88c73c22abeed1aa7692e05d0bf"
+          }
+        },
+        {
+          "client_id": "692111207930-677pa67ts72kqhom6f3hlsc4rolc0qse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_JqysTlfe5ViZpMTmtkHHMZx6p6Brhww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692111207930-677pa67ts72kqhom6f3hlsc4rolc0qse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
